@@ -1,3 +1,3 @@
 function Start(){
-    window.location="Main.html";
+    window.location="kwitter.html";
 }
